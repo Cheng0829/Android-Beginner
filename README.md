@@ -4,7 +4,7 @@
 
 #### 上传的代码不全,具体用本地代码
 
-具体笔记可见[Notes.md](https://github.com/Cheng0829/Android-Beginner/Notes.md)
+具体笔记可见[Notes.md](https://github.com/Cheng0829/Android-Beginner/blob/master/Notes.md)
 
 #### 课程网址:
 
